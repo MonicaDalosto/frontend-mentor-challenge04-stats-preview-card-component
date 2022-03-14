@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stats preview card component]()
+- Solution URL: [Stats preview card component](https://monicadalosto.github.io/frontend-mentor-challenge04-stats-preview-card-component/)
 
 ## My process
 

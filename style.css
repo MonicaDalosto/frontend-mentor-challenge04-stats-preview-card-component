@@ -121,7 +121,7 @@ p.description {
 }
 
 .attribution a { 
-  color: hsl(228, 45%, 44%); 
+  color: var(--color-slightly-transparent-white-stat-headings); 
 }
 
 @media screen and (min-width: 950px) {

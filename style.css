@@ -3,11 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
 /* Weights: 400 */
 
-/* 
-### Body Copy
-- Font size: 15px
-*/
-
 :root {
   /* Primary Colors: */
   --color-dark-blue-mainbg: hsl(233, 47%, 7%);
